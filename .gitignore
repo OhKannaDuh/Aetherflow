@@ -1,6 +1,6 @@
 .vs/
-PluginTemplate/obj/
-PluginTemplate/bin/
+Aetherflow/obj/
+Aetherflow/bin/
 *.user
-PluginTemplate/.env
+Aetherflow/.env
 node_modules/
